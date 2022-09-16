@@ -1,2 +1,4 @@
 # vk_yndx_prak
-Repository of training projects completed during the professional training course data scientist by Yandex praktikum
+## Репозиторий учебных проектов, выполненных в ходе прохождения курса Data Scientist в Яндекс практикуме
+
+1. 
