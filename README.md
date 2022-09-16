@@ -2,5 +2,5 @@
 ## Репозиторий учебных проектов, выполненных в ходе прохождения курса Data Scientist в Яндекс практикуме
 
 1. Проект музыка больших городов
-https://github.com/vladkozlovskii/vk_yndx_prak/tree/main/01_Music_project_DA
+https://github.com/vladkozlovskii/vk_yndx_prak/tree/main/01_Music_project_DA  
 Первый проект реализованный в ходе обучения. Проект базово самый простой - структура была дана изначально, в проекте отрабатывались применение циклов, функций и группировок.
